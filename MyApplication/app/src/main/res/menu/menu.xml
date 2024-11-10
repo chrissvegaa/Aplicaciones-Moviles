@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/suma"
+        android:icon="@drawable/messi"
+        android:title="Suma"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/resta"
+        android:icon="@drawable/cristiano"
+        android:title="Resta"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/multiplicacion"
+        android:icon="@drawable/gavi"
+        android:title="Multiplicacion"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/division"
+        android:icon="@drawable/messi"
+        android:title="Division"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/sumar"
+        android:title="Sumar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/restar"
+        android:title="Restar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/multiplicar"
+        android:title="Multiplicar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/dividir"
+        android:title="Dividir"
+        app:showAsAction="never" />
+
+</menu>
